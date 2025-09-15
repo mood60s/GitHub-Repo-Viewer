@@ -22,7 +22,7 @@ main > header input {
   height: 54px;
 }
 main > header input:focus {
-  outline-color: #008644;
+ outline: 1px solid  #008644;
 }
 main > header button {
   border: none;
@@ -73,3 +73,4 @@ main .show-data {
 .repo-Box span {
   background-color: #009688;
 }
+
